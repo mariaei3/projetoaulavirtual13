@@ -1,6 +1,6 @@
-## Getting Started
+## Projeto UNA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O seguinte projeto é um exercício de Programação de Soluções Computacionais
 
 ## Folder Structure
 
@@ -16,3 +16,12 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+## Enunciado do Exercício
+
+13.Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+
+a.Para homens: (72.7*h) - 58
+
+b.Para mulheres: (62.1*h) - 44.7
